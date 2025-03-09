@@ -24,7 +24,7 @@ A voice recognition-based tool for translating languages in real-time. This tool
 - **Step 01:** Navigate to the following directory.
 
   ```
-   language-translator-bot/docs/requirements.txt
+   cd docs
   ```
 
 - **Step 02:** Run this command to install all dependencies.
@@ -40,7 +40,7 @@ A voice recognition-based tool for translating languages in real-time. This tool
 - **Step 02:** Navigate to the source directory.
 
   ```
-   language-translator-bot/soruce/main.py
+   cd soruce
   ```
 
 
